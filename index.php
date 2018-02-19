@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Hello Osones</title>
+	<title>Hello guys</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
@@ -18,7 +18,7 @@
 </head>
 <body>
 	<img id="logo" src="logo.png" />
-	<h1 style="color:green;"> Hello Osones </h1>
+	<h1 style="color:green;"> Hello Guys </h1>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 		</body>
 </html>
